@@ -6,6 +6,9 @@
 
 QT       += core gui
 QT       += sql
+QT       += widgets
+
+CONFIG   += C++11
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
