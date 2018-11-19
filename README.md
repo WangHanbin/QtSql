@@ -1,6 +1,6 @@
-#Qt with MySQL
+# Qt with MySQL
 
-##Done 
+## Done 
 1. Connect to MySQL database.
 2. Use QSqlTableModel to get information from database.
 3. Use QSqlQuery to get information from database.
@@ -9,7 +9,7 @@
 6. Input query through the QLineEdit and auto complete.
 
  
-##TODO
+## TODO
 
 1. Create csv files to handle the large scale data.
 2. Create servel tables 
